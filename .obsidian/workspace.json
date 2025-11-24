@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "7871638383149f7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4860ab3e472283e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a8e12c91d4c765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Memory/Technical/Tools/Obsidian/20251113_Obsidianのグラフビュー.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251113_Obsidianのグラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5617bba482ebf735",
+    "type": "split",
+    "children": [
+      {
+        "id": "63cf49cdce621b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a14b4c29820dff7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "d1727ce017af2932",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#リンク戦略",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "9167a0e6ea8738bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b128c668f351ff96",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f68e024aedd261b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b2d104cb3ab09e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "18cec792b2e9b1c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "0d16b6f5eafceaed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "a9753f7025832bf6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "e159128752e2b142",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "無題のファイル.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "無題のファイルのアウトライン"
+            }
+          },
+          {
+            "id": "92689988346b6b9c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:カンバンボードを新規作成": false
+    }
+  },
+  "active": "86a8e12c91d4c765",
+  "lastOpenFiles": [
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-url-parser.js.map",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-url-parser.js",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-import-parser.js.map",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-import-parser.js",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-icss-parser.js.map",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/postcss-icss-parser.js",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/index.js.map",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/plugins/index.js",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/runtime/getUrl.js.map",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/runtime/getUrl.js",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/esm/build/webpack/loaders/css-loader/src/runtime/api.js.map",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/compiled/@babel/runtime/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/compiled/regenerator-runtime/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/compiled/react-refresh/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/dist/compiled/react-is/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/semver/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/glob-parent/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/glob-parent/CHANGELOG.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/typescript-estree/node_modules/brace-expansion/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@typescript-eslint/eslint-plugin/node_modules/ignore/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@mui/utils/node_modules/react-is/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@mui/material/node_modules/react-is/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/@emotion/babel-plugin/node_modules/convert-source-map/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/tsconfig-paths/node_modules/json5/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/tsconfig-paths/node_modules/json5/LICENSE.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/tinyglobby/node_modules/picomatch/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/tinyglobby/node_modules/fdir/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/sharp/node_modules/semver/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/next/node_modules/postcss/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/mongoose/lib/drivers/SPEC.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/is-bun-module/node_modules/semver/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/fast-glob/node_modules/glob-parent/README.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/node_modules/fast-glob/node_modules/glob-parent/CHANGELOG.md",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/public/window.svg",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/public/vercel.svg",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/public/next.svg",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/public/globe.svg",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/survibe-ai-2025-12/public/file.svg",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/window.svg",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/vercel.svg",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/next.svg",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/globe.svg",
+    "05_Output/Projects/@Active/SURVIBE-AI-Dec2025/website/public/file.svg",
+    "無題のファイル.canvas"
+  ]
+}
